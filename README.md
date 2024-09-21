@@ -117,6 +117,7 @@ A collection of LeetCode Daily Questions.
 | [0226-invert-binary-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0386-lexicographical-numbers](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0386-lexicographical-numbers) |
 | [0572-subtree-of-another-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
@@ -150,4 +151,5 @@ A collection of LeetCode Daily Questions.
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0208-implement-trie-prefix-tree) |
+| [0386-lexicographical-numbers](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
