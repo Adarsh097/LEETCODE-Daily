@@ -11,21 +11,20 @@
  */
 class Solution {
 public:
-  
-    void solve(TreeNode* &root, int &k,int &ans){
+    int ans;
+    void solve(TreeNode* &root, int &k){
         if(root==NULL)return;
         //left part
-        solve(root->left,k,ans);
+        solve(root->left,k);
         //process
         k--;
         if(k==0)ans = root->val;
         // right part
-        solve(root->right,k,ans);
+        solve(root->right,k);
 
     }
     int kthSmallest(TreeNode* root, int k) {
-        int ans = INT_MAX;
-        solve(root,k,ans);
+        solve(root,k);
         return ans;
     }
 };
