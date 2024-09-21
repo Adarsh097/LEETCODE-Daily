@@ -1,20 +1,29 @@
 struct Node{ // making the struct node
-     //each node has 26 links for every character
+     //each node has 26 links for every character and flag -> to mark the end for a particular word
      Node *links[26];
      bool flag = false;
+
+     //to check if the given node contains the reference node of the character passed 
      bool containsKey(char ch){
         return (links[ch - 'a'] != NULL);
      }
+
+     // to put the reference of the new node at the given character
     void put(char ch,Node* node){
         links[ch-'a'] = node;
     }
+
+    // to get the reference node of the given character
     Node* get(char ch){
         return links[ch-'a'];
     }
 
+    // to set the flag of  the current node as true -> to mark the end of the word.
     void setEnd(){
         flag = true;
     }
+
+    // to check if the current node's flag is true -> to check the end of the word.
     bool isEnd(){
         return flag;
     }
@@ -22,6 +31,7 @@ struct Node{ // making the struct node
 class Trie {
     // initially we need the root;
 private:
+// creating the data member of Node* type
     Node* root;
 public:
     Trie() {
