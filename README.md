@@ -64,6 +64,7 @@ A collection of LeetCode Daily Questions.
 | [0124-binary-tree-maximum-path-sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0241-different-ways-to-add-parentheses) |
 | [0337-house-robber-iii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0337-house-robber-iii) |
+| [1008-binary-tree-cameras](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1008-binary-tree-cameras) |
 ## Recursion
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode Daily Questions.
 | [0337-house-robber-iii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0572-subtree-of-another-tree) |
+| [1008-binary-tree-cameras](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1008-binary-tree-cameras) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode Daily Questions.
 | [0386-lexicographical-numbers](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0572-subtree-of-another-tree) |
+| [1008-binary-tree-cameras](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1008-binary-tree-cameras) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -166,6 +169,7 @@ A collection of LeetCode Daily Questions.
 | [0337-house-robber-iii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0572-subtree-of-another-tree) |
+| [1008-binary-tree-cameras](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1008-binary-tree-cameras) |
 ## Binary Search Tree
 |  |
 | ------- |
