@@ -29,9 +29,10 @@ public:
 
     }
     int diameterOfBinaryTree(TreeNode* root) {
-        if(root==NULL)return 0;
+        // if(root==NULL)return 0;
        int ans = INT_MIN;
        solve(root,ans);
+       if(ans==INT_MIN)return 0;
        return ans-1;
 
     }
