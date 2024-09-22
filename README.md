@@ -198,6 +198,7 @@ A collection of LeetCode Daily Questions.
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0208-implement-trie-prefix-tree) |
 | [0386-lexicographical-numbers](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0386-lexicographical-numbers) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## Data Stream
 |  |
 | ------- |
