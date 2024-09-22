@@ -7,6 +7,7 @@ A collection of LeetCode Daily Questions.
 | ------- |
 | [0001-two-sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0015-3sum) |
+| [0057-insert-interval](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0057-insert-interval) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0179-largest-number](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0179-largest-number) |
