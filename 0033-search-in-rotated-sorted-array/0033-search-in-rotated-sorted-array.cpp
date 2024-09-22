@@ -10,16 +10,14 @@ public:
                 ans = mid;
                 break;
             }
-            //select the half
             else if(nums[mid] >= nums[s]){
                 //left half
-                if(nums[mid]> target && target >= nums[s]){
+                if(nums[mid]>target && target >= nums[s]){
                     e = mid-1;
                 }else{
                     s = mid+1;
                 }
             }else{
-                // right half
                 if(nums[mid]<target && target < nums[s]){
                     s = mid+1;
                 }else{
