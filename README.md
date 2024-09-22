@@ -7,6 +7,7 @@ A collection of LeetCode Daily Questions.
 | ------- |
 | [0001-two-sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0033-search-in-rotated-sorted-array) |
 | [0057-insert-interval](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0057-insert-interval) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -182,6 +183,7 @@ A collection of LeetCode Daily Questions.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0033-search-in-rotated-sorted-array) |
 | [0096-unique-binary-search-trees](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0230-kth-smallest-element-in-a-bst) |
