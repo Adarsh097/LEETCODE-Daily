@@ -1,38 +1,35 @@
 class MedianFinder {
-private:
-    priority_queue<int>maxLeft;
-    priority_queue<int,vector<int>,greater<int>>minRight;
 public:
+    priority_queue<int>maxL;
+    priority_queue<int,vector<int>,greater<int>>minR;
     MedianFinder() {
         
     }
     
     void addNum(int num) {
-        if(maxLeft.empty() || num < maxLeft.top()){
-            maxLeft.push(num);
+        if(maxL.empty() ||num < maxL.top()){
+            maxL.push(num);
         }else{
-            minRight.push(num);
+            minR.push(num);
         }
 
-        //balance
-        // keeping size of leftHeap atmost one greater than the right
-        // but size of right heap shouldn't be greater than the size of the left heap
-        if(abs((int)maxLeft.size() - (int)minRight.size())>1){
-            minRight.push(maxLeft.top());
-            maxLeft.pop();
-        }else if(minRight.size() > maxLeft.size()){
-            maxLeft.push(minRight.top());
-            minRight.pop();
+        //balance the heaps
+        if(abs((int)maxL.size() - (int)minR.size())>1){
+            minR.push(maxL.top());
+            maxL.pop();
+        }
+        else if(minR.size() > maxL.size()){
+            maxL.push(minR.top());
+            minR.pop();
         }
     }
     
     double findMedian() {
-        if(maxLeft.size() != minRight.size()){
-            return maxLeft.top();
+        if(maxL.size() != minR.size()){
+            return maxL.top();
         }else{
-            double ans = (maxLeft.top() + minRight.top())/2.0;
-            return ans
-            ;
+            double ans = (maxL.top() + minR.top())/2.0;
+            return ans;
         }
     }
 };
