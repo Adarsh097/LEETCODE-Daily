@@ -86,6 +86,7 @@ A collection of LeetCode Daily Questions.
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0206-reverse-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0241-different-ways-to-add-parentheses) |
 ## Memoization
 |  |
@@ -216,4 +217,8 @@ A collection of LeetCode Daily Questions.
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0295-find-median-from-data-stream) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
