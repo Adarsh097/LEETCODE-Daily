@@ -13,6 +13,7 @@ A collection of LeetCode Daily Questions.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0179-largest-number](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0179-largest-number) |
@@ -77,6 +78,7 @@ A collection of LeetCode Daily Questions.
 | [0096-unique-binary-search-trees](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0152-maximum-product-subarray](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0152-maximum-product-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0241-different-ways-to-add-parentheses) |
 | [0337-house-robber-iii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0337-house-robber-iii) |
 | [0435-non-overlapping-intervals](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0435-non-overlapping-intervals) |
