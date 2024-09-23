@@ -8,6 +8,7 @@ A collection of LeetCode Daily Questions.
 | [0001-two-sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0057-insert-interval) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -69,6 +70,7 @@ A collection of LeetCode Daily Questions.
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0048-rotate-image) |
 | [0096-unique-binary-search-trees](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0096-unique-binary-search-trees) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0241-different-ways-to-add-parentheses) |
 ## Dynamic Programming
@@ -225,4 +227,8 @@ A collection of LeetCode Daily Questions.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0206-reverse-linked-list) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
