@@ -7,13 +7,13 @@ public:
     }
     
     void addNum(int num) {
-        if(maxL.empty() ||num < maxL.top()){
+        if(maxL.empty() || maxL.top() > num){
             maxL.push(num);
         }else{
             minR.push(num);
         }
 
-        //balance the heaps
+        //balance
         if(abs((int)maxL.size() - (int)minR.size())>1){
             minR.push(maxL.top());
             maxL.pop();
