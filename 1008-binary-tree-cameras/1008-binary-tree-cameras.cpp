@@ -11,9 +11,10 @@
  */
 class Solution {
 public:
-    int solve(TreeNode* &root, int &ans){
-        if(root == NULL)return 1;
-
+    int solve(TreeNode*&root,int &ans){
+        if(root==NULL){
+            return 1;
+        }
         int l = solve(root->left,ans);
         int r = solve(root->right,ans);
 
@@ -23,17 +24,15 @@ public:
         }
         else if(l==0 || r==0){
             return 1;
-        }
-        else{
+        }else{
             return -1;
         }
     }
     int minCameraCover(TreeNode* root) {
-     int ans = 0;
-    int check = solve(root,ans);
-        if(check==-1){
-            ans++;
-        }
+        int ans = 0;
+        int flag = solve(root,ans);
+        
+        if(flag == -1)ans++;
         return ans;
     }
 };
