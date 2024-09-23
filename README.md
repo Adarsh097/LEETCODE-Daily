@@ -97,6 +97,7 @@ A collection of LeetCode Daily Questions.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0295-find-median-from-data-stream](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0295-find-median-from-data-stream) |
 ## Rolling Hash
 |  |
@@ -221,6 +222,7 @@ A collection of LeetCode Daily Questions.
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
