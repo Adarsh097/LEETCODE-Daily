@@ -24,6 +24,7 @@ A collection of LeetCode Daily Questions.
 | [0215-kth-largest-element-in-an-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0238-product-of-array-except-self) |
+| [0300-longest-increasing-subsequence](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0518-coin-change-ii) |
@@ -97,6 +98,7 @@ A collection of LeetCode Daily Questions.
 | [0152-maximum-product-subarray](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0241-different-ways-to-add-parentheses) |
+| [0300-longest-increasing-subsequence](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0300-longest-increasing-subsequence) |
 | [0337-house-robber-iii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0337-house-robber-iii) |
 | [0435-non-overlapping-intervals](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0518-coin-change-ii) |
@@ -230,6 +232,7 @@ A collection of LeetCode Daily Questions.
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0300-longest-increasing-subsequence](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0300-longest-increasing-subsequence) |
 ## Design
 |  |
 | ------- |
