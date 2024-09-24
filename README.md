@@ -60,6 +60,7 @@ A collection of LeetCode Daily Questions.
 | [0208-implement-trie-prefix-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0208-implement-trie-prefix-tree) |
 | [0214-shortest-palindrome](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0241-different-ways-to-add-parentheses) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2755-extra-characters-in-a-string](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2755-extra-characters-in-a-string) |
@@ -159,6 +160,7 @@ A collection of LeetCode Daily Questions.
 | [0226-invert-binary-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0572-subtree-of-another-tree) |
@@ -173,6 +175,7 @@ A collection of LeetCode Daily Questions.
 | [0226-invert-binary-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0337-house-robber-iii) |
 | [0386-lexicographical-numbers](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0543-diameter-of-binary-tree) |
@@ -185,6 +188,7 @@ A collection of LeetCode Daily Questions.
 | [0102-binary-tree-level-order-traversal](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -199,6 +203,7 @@ A collection of LeetCode Daily Questions.
 | [0226-invert-binary-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0572-subtree-of-another-tree) |
@@ -218,6 +223,7 @@ A collection of LeetCode Daily Questions.
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Trie
 |  |
 | ------- |
