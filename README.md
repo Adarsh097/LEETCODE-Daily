@@ -10,6 +10,7 @@ A collection of LeetCode Daily Questions.
 | [0015-3sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0057-insert-interval) |
@@ -39,6 +40,7 @@ A collection of LeetCode Daily Questions.
 | ------- |
 | [0001-two-sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0208-implement-trie-prefix-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0208-implement-trie-prefix-tree) |
@@ -52,6 +54,7 @@ A collection of LeetCode Daily Questions.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0217-contains-duplicate) |
@@ -66,6 +69,7 @@ A collection of LeetCode Daily Questions.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0208-implement-trie-prefix-tree) |
 | [0214-shortest-palindrome](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0214-shortest-palindrome) |
