@@ -17,6 +17,7 @@ A collection of LeetCode Daily Questions.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -343,6 +344,7 @@ A collection of LeetCode Daily Questions.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0191-number-of-1-bits) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2323-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
