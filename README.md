@@ -51,6 +51,7 @@ A collection of LeetCode Daily Questions.
 | [0217-contains-duplicate](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0347-top-k-frequent-elements) |
+| [0432-all-oone-data-structure](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0432-all-oone-data-structure) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2755-extra-characters-in-a-string](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2755-extra-characters-in-a-string) |
 | [2778-frequency-tracker](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2778-frequency-tracker) |
@@ -267,6 +268,7 @@ A collection of LeetCode Daily Questions.
 | [0208-implement-trie-prefix-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0432-all-oone-data-structure](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0859-design-circular-deque) |
@@ -293,6 +295,7 @@ A collection of LeetCode Daily Questions.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0206-reverse-linked-list) |
+| [0432-all-oone-data-structure](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0860-design-circular-queue) |
 | [1767-design-front-middle-back-queue](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1767-design-front-middle-back-queue) |
@@ -329,4 +332,8 @@ A collection of LeetCode Daily Questions.
 | [0859-design-circular-deque](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0860-design-circular-queue) |
 | [1767-design-front-middle-back-queue](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1767-design-front-middle-back-queue) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
