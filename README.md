@@ -81,6 +81,7 @@ A collection of LeetCode Daily Questions.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0049-group-anagrams) |
+| [0091-decode-ways](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0091-decode-ways) |
 | [0179-largest-number](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0208-implement-trie-prefix-tree) |
 | [0214-shortest-palindrome](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0214-shortest-palindrome) |
@@ -122,6 +123,7 @@ A collection of LeetCode Daily Questions.
 | [0053-maximum-subarray](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0124-binary-tree-maximum-path-sum) |
