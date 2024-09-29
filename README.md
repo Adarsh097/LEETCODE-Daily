@@ -78,6 +78,7 @@ A collection of LeetCode Daily Questions.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0208-implement-trie-prefix-tree) |
@@ -116,6 +117,7 @@ A collection of LeetCode Daily Questions.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0070-climbing-stairs) |
@@ -146,6 +148,7 @@ A collection of LeetCode Daily Questions.
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0019-remove-nth-node-from-end-of-list) |
