@@ -7,7 +7,6 @@ public:
         size = maxSize;
         currSize = 0;
     }
-    
     void push(int x) {
         if(currSize < size){
             v.push_back(x);
@@ -23,15 +22,15 @@ public:
         return ans;
 
     }
-    
     void increment(int k, int val) {
         for(int i=0;i<v.size();i++){
             if(k>0){
                 v[i] += val;
                 k--;
-            }
+            }else break;
         }
         return;
+       
     }
 };
 
