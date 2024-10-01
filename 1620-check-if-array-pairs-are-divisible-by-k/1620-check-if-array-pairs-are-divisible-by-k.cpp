@@ -6,14 +6,11 @@ public:
             int num = ((val%k) + k)%k;
             m[num]++;
         }
-        for(auto &it : m){
-            cout<<it.first<<" "<<it.second<<"\n";
-        }
         for(auto &it: m){
             if(it.first != 0){
                 int val = it.first;
                 int rval = k - val;
-                if(val == rval && m[val]%2!=0)return false;
+                if(val == rval && m[val]&1==1)return false;
                 if(m.find(rval)!=m.end()){
                     if(m[val] != m[rval])return false;
                 }else{
