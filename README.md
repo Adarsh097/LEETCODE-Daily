@@ -38,6 +38,7 @@ A collection of LeetCode Daily Questions.
 | [0859-design-circular-deque](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0860-design-circular-queue) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1767-design-front-middle-back-queue](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1767-design-front-middle-back-queue) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2536-determine-if-two-events-have-conflict) |
@@ -59,6 +60,7 @@ A collection of LeetCode Daily Questions.
 | [0347-top-k-frequent-elements](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0347-top-k-frequent-elements) |
 | [0432-all-oone-data-structure](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0432-all-oone-data-structure) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2755-extra-characters-in-a-string](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2755-extra-characters-in-a-string) |
 | [2778-frequency-tracker](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2778-frequency-tracker) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -106,6 +108,7 @@ A collection of LeetCode Daily Questions.
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0347-top-k-frequent-elements) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Greedy
 |  |
