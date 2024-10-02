@@ -370,6 +370,7 @@ A collection of LeetCode Daily Questions.
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0039-combination-sum) |
+| [0052-n-queens-ii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0052-n-queens-ii) |
 ## Stack
 |  |
 | ------- |
