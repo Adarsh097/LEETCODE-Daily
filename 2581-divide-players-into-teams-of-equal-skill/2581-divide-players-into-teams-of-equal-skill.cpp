@@ -1,6 +1,8 @@
 class Solution {
 public:
     long long dividePlayers(vector<int>& skill) {
+          std::ios_base::sync_with_stdio(false);  // Disable synchronization with C I/O
+          std::cin.tie(nullptr);                  // Untie cin from cout
         int n = skill.size();
         int teams = n/2;
         long long sum = accumulate(skill.begin(),skill.end(),0);
