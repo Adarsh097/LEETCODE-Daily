@@ -70,6 +70,7 @@ A collection of LeetCode Daily Questions.
 | [0242-valid-anagram](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0347-top-k-frequent-elements) |
 | [0432-all-oone-data-structure](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0432-all-oone-data-structure) |
+| [0567-permutation-in-string](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1256-rank-transform-of-an-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1256-rank-transform-of-an-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -115,6 +116,7 @@ A collection of LeetCode Daily Questions.
 | [0241-different-ways-to-add-parentheses](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0567-permutation-in-string](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1250-longest-common-subsequence](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1250-longest-common-subsequence) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -189,6 +191,7 @@ A collection of LeetCode Daily Questions.
 | [0015-3sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0295-find-median-from-data-stream](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0295-find-median-from-data-stream) |
+| [0567-permutation-in-string](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0567-permutation-in-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Rolling Hash
 |  |
@@ -368,6 +371,7 @@ A collection of LeetCode Daily Questions.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0567-permutation-in-string) |
 ## Combinatorics
 |  |
 | ------- |
