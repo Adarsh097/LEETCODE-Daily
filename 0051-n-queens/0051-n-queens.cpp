@@ -1,43 +1,41 @@
 class Solution {
 public:
-    bool isSafe(int col, int row, vector<string>&b){
-        int n = b.size();
+    vector<vector<string>>ans;
+    bool isSafe(int row,int col,vector<string>&board){
         //up
-        for(int r = row-1;r>=0; r--){
-            if(b[r][col] == 'Q')return false;
+        for(int i=row-1;i>=0;i--){
+            if(board[i][col] == 'Q')return false;
         }
 
-        // up - left
-        for(int r=row-1, c=col-1; r>=0 and c>=0; r--,c--){
-            if(b[r][c] == 'Q')return false;
+        //up left
+        for(int i=row-1,j=col-1;i>=0 and j>=0;i--,j--){
+            if(board[i][j]=='Q')return false;
         }
 
-        //up -right
-        for(int r=row-1, c= col+1; r>=0 and c<n; c++,r--){
-            if(b[r][c] == 'Q')return false;
+        //upright
+        for(int i=row-1,j=col+1;i>=0 and j<board.size();i--,j++){
+            if(board[i][j]=='Q')return false;
         }
         return true;
     }
-    vector<vector<string>>ans;
-    void solve(int row, int n, vector<string>&b){
-        if(row >= n){
-            ans.push_back(b);
+    void solve(int row, int &n,vector<string>v){
+        if(row >=n){
+            ans.push_back(v);
             return;
         }
 
         for(int col = 0;col<n;col++){
-            if(isSafe(col,row,b)){
-                b[row][col] = 'Q';
-                solve(row+1,n,b);
-                //backtracking
-                b[row][col] = '.';
+            if(isSafe(row,col,v)){
+                v[row][col] = 'Q';
+                solve(row+1,n,v);
+                v[row][col] = '.';
             }
         }
         return;
     }
     vector<vector<string>> solveNQueens(int n) {
-        vector<string>board(n,string(n,'.'));
-        solve(0,n,board);
+        vector<string>v(n,string(n,'.'));
+        solve(0,n,v);
         return ans;
     }
 };
