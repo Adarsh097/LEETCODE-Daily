@@ -124,6 +124,7 @@ A collection of LeetCode Daily Questions.
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2755-extra-characters-in-a-string](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2755-extra-characters-in-a-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3194-find-words-containing-character](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/3194-find-words-containing-character) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3541-report-spam-message](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/3541-report-spam-message) |
@@ -370,6 +371,7 @@ A collection of LeetCode Daily Questions.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0054-spiral-matrix) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -415,6 +417,7 @@ A collection of LeetCode Daily Questions.
 |  |
 | ------- |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Union Find
 |  |
 | ------- |
