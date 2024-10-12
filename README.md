@@ -52,6 +52,7 @@ A collection of LeetCode Daily Questions.
 | [1767-design-front-middle-back-queue](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1767-design-front-middle-back-queue) |
 | [1923-sentence-similarity-iii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1923-sentence-similarity-iii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -99,6 +100,7 @@ A collection of LeetCode Daily Questions.
 | [0347-top-k-frequent-elements](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0435-non-overlapping-intervals) |
 | [1256-rank-transform-of-an-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1256-rank-transform-of-an-array) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Prefix Sum
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode Daily Questions.
 | [0238-product-of-array-except-self](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0238-product-of-array-except-self) |
 | [0731-my-calendar-ii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0731-my-calendar-ii) |
 | [1694-make-sum-divisible-by-p](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1694-make-sum-divisible-by-p) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## String
 |  |
 | ------- |
@@ -152,6 +155,7 @@ A collection of LeetCode Daily Questions.
 | [0435-non-overlapping-intervals](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0435-non-overlapping-intervals) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Math
 |  |
 | ------- |
@@ -211,6 +215,7 @@ A collection of LeetCode Daily Questions.
 | [0567-permutation-in-string](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Rolling Hash
 |  |
@@ -243,6 +248,7 @@ A collection of LeetCode Daily Questions.
 | [0295-find-median-from-data-stream](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0347-top-k-frequent-elements) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Bucket Sort
 |  |
 | ------- |
