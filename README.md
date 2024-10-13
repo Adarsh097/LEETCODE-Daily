@@ -19,6 +19,7 @@ A collection of LeetCode Daily Questions.
 | [0074-search-a-2d-matrix](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0074-search-a-2d-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0118-pascals-triangle](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0139-word-break) |
@@ -174,6 +175,7 @@ A collection of LeetCode Daily Questions.
 | [0070-climbing-stairs](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0096-unique-binary-search-trees) |
+| [0118-pascals-triangle](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0139-word-break) |
