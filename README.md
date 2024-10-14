@@ -164,6 +164,7 @@ A collection of LeetCode Daily Questions.
 | ------- |
 | [0009-palindrome-number](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0096-unique-binary-search-trees) |
@@ -200,6 +201,7 @@ A collection of LeetCode Daily Questions.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0206-reverse-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0241-different-ways-to-add-parentheses) |
 ## Memoization
