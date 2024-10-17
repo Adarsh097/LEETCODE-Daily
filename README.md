@@ -157,6 +157,7 @@ A collection of LeetCode Daily Questions.
 | [0011-container-with-most-water](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0435-non-overlapping-intervals) |
+| [0670-maximum-swap](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1304-longest-happy-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -173,6 +174,7 @@ A collection of LeetCode Daily Questions.
 | [0070-climbing-stairs](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0096-unique-binary-search-trees) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0241-different-ways-to-add-parentheses) |
+| [0670-maximum-swap](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0670-maximum-swap) |
 ## Dynamic Programming
 |  |
 | ------- |
