@@ -53,6 +53,7 @@ A collection of LeetCode Daily Questions.
 | [1767-design-front-middle-back-queue](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1767-design-front-middle-back-queue) |
 | [1923-sentence-similarity-iii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1923-sentence-similarity-iii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2536-determine-if-two-events-have-conflict) |
@@ -445,6 +446,7 @@ A collection of LeetCode Daily Questions.
 | ------- |
 | [0136-single-number](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0191-number-of-1-bits) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Backtracking
 |  |
@@ -452,6 +454,7 @@ A collection of LeetCode Daily Questions.
 | [0039-combination-sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0052-n-queens-ii) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Stack
 |  |
 | ------- |
@@ -467,4 +470,8 @@ A collection of LeetCode Daily Questions.
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0547-number-of-provinces) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
