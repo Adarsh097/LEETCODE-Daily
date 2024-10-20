@@ -7,10 +7,15 @@ public:
         unordered_map<char,int>m;
         while(j<n){
             char  ch = s[j];
-            m[ch]++; 
-            while(m[ch]>=k){
+            m[ch]++;
+            if(m[ch]>=k){
                 ans += (n-j);
+            }
+            while(m[ch]>=k){
                 m[s[i]]--;
+                if(m[ch]>=k){
+                    ans += (n-j);
+                }
                 i++;
             }
             j++;
