@@ -9,6 +9,7 @@ A collection of LeetCode Daily Questions.
 | [0011-container-with-most-water](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0049-group-anagrams) |
@@ -68,6 +69,7 @@ A collection of LeetCode Daily Questions.
 | ------- |
 | [0001-two-sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -402,6 +404,7 @@ A collection of LeetCode Daily Questions.
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0074-search-a-2d-matrix) |
@@ -453,6 +456,7 @@ A collection of LeetCode Daily Questions.
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0052-n-queens-ii) |
