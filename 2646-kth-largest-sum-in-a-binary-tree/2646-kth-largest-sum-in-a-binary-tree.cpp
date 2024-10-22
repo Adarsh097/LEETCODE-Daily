@@ -25,7 +25,6 @@ public:
                 if(node->left)q.push(node->left);
                 if(node->right)q.push(node->right);
             }else{
-                cout<<levelSum<<endl;
                 if(pq.size()<k)pq.push(levelSum);
                 else if(levelSum>pq.top()){
                     pq.pop();
