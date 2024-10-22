@@ -50,6 +50,7 @@ A collection of LeetCode Daily Questions.
 | [1497-design-a-stack-with-increment-operation](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1677-matrix-diagonal-sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1677-matrix-diagonal-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1694-make-sum-divisible-by-p) |
 | [1767-design-front-middle-back-queue](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1767-design-front-middle-back-queue) |
 | [1923-sentence-similarity-iii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1923-sentence-similarity-iii) |
@@ -414,6 +415,7 @@ A collection of LeetCode Daily Questions.
 | [0542-01-matrix](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1036-rotting-oranges) |
+| [1677-matrix-diagonal-sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1677-matrix-diagonal-sum) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Simulation
 |  |
