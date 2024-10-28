@@ -1,16 +1,22 @@
 class Solution {
 public:
     vector<int>dp;
-    int solve(int n){
-        if(n==1)return 1;
-        if(n==2)return 2;
-        if(dp[n] != -1 )return dp[n];
-
-        return dp[n] = solve(n-1) + solve(n-2);
+    int solveM(int n){
+        if(n==0){
+            // one possible way to reach here
+            return 1;
+        }
+        if(n==1){
+            //one step to reach the place
+            return 1;
+        }
+        if(dp[n] !=-1 )return dp[n];
+        dp[n] = solveM(n-1) + solveM(n-2);
+        return dp[n];
     }
     int climbStairs(int n) {
         dp.resize(n+1,-1);
-        int ans = solve(n);
+        int ans = solveM(n);
         return ans;
     }
 };
