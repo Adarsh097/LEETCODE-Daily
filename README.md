@@ -494,4 +494,8 @@ A collection of LeetCode Daily Questions.
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
