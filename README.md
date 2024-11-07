@@ -498,4 +498,5 @@ A collection of LeetCode Daily Questions.
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0595-big-countries) |
+| [1258-article-views-i](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1258-article-views-i) |
 <!---LeetCode Topics End-->
