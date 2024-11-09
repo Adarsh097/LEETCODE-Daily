@@ -504,5 +504,6 @@ A collection of LeetCode Daily Questions.
 | [0595-big-countries](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0595-big-countries) |
 | [1135-customers-who-bought-all-products](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1135-customers-who-bought-all-products) |
 | [1258-article-views-i](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1258-article-views-i) |
+| [1390-average-selling-price](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1390-average-selling-price) |
 | [1827-invalid-tweets](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1827-invalid-tweets) |
 <!---LeetCode Topics End-->
