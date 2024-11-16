@@ -17,6 +17,7 @@ A collection of LeetCode Daily Questions.
 | [0053-maximum-subarray](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0057-insert-interval) |
+| [0064-minimum-path-sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0074-search-a-2d-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -197,6 +198,7 @@ A collection of LeetCode Daily Questions.
 | [0005-longest-palindromic-substring](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0096-unique-binary-search-trees) |
@@ -426,6 +428,7 @@ A collection of LeetCode Daily Questions.
 | [0037-sudoku-solver](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0542-01-matrix) |
