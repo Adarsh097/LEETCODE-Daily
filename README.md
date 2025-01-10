@@ -48,6 +48,7 @@ A collection of LeetCode Daily Questions.
 | [0733-flood-fill](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0733-flood-fill) |
 | [0859-design-circular-deque](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0860-design-circular-queue) |
+| [0966-binary-subarrays-with-sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0966-binary-subarrays-with-sum) |
 | [1036-rotting-oranges](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1036-rotting-oranges) |
 | [1256-rank-transform-of-an-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -92,6 +93,7 @@ A collection of LeetCode Daily Questions.
 | [0442-find-all-duplicates-in-an-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0966-binary-subarrays-with-sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0966-binary-subarrays-with-sum) |
 | [1256-rank-transform-of-an-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1256-rank-transform-of-an-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -126,6 +128,7 @@ A collection of LeetCode Daily Questions.
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0238-product-of-array-except-self) |
 | [0731-my-calendar-ii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0731-my-calendar-ii) |
+| [0966-binary-subarrays-with-sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0966-binary-subarrays-with-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1694-make-sum-divisible-by-p](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1694-make-sum-divisible-by-p) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -457,6 +460,7 @@ A collection of LeetCode Daily Questions.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0567-permutation-in-string) |
+| [0966-binary-subarrays-with-sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0966-binary-subarrays-with-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Combinatorics
 |  |
