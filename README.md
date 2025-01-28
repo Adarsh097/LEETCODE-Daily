@@ -322,6 +322,7 @@ A collection of LeetCode Daily Questions.
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0662-maximum-width-of-binary-tree) |
 | [1008-binary-tree-cameras](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1008-binary-tree-cameras) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
@@ -341,6 +342,7 @@ A collection of LeetCode Daily Questions.
 | [0543-diameter-of-binary-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0744-network-delay-time) |
 | [1008-binary-tree-cameras](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1008-binary-tree-cameras) |
@@ -357,6 +359,7 @@ A collection of LeetCode Daily Questions.
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0547-number-of-provinces) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0744-network-delay-time) |
 | [1036-rotting-oranges](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1036-rotting-oranges) |
@@ -380,6 +383,7 @@ A collection of LeetCode Daily Questions.
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0662-maximum-width-of-binary-tree) |
 | [1008-binary-tree-cameras](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1008-binary-tree-cameras) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Search Tree
