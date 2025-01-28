@@ -71,6 +71,7 @@ A collection of LeetCode Daily Questions.
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2755-extra-characters-in-a-string](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2755-extra-characters-in-a-string) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3194-find-words-containing-character](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/3194-find-words-containing-character) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3541-report-spam-message](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/3541-report-spam-message) |
@@ -347,6 +348,7 @@ A collection of LeetCode Daily Questions.
 | [0744-network-delay-time](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0744-network-delay-time) |
 | [1008-binary-tree-cameras](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1008-binary-tree-cameras) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -364,6 +366,7 @@ A collection of LeetCode Daily Questions.
 | [0744-network-delay-time](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0744-network-delay-time) |
 | [1036-rotting-oranges](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1036-rotting-oranges) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -458,6 +461,7 @@ A collection of LeetCode Daily Questions.
 | [1036-rotting-oranges](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1036-rotting-oranges) |
 | [1677-matrix-diagonal-sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1677-matrix-diagonal-sum) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -524,6 +528,7 @@ A collection of LeetCode Daily Questions.
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0547-number-of-provinces) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Graph
 |  |
 | ------- |
