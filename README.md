@@ -11,6 +11,7 @@ A collection of LeetCode Daily Questions.
 | [0033-search-in-rotated-sorted-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0051-n-queens) |
@@ -206,6 +207,7 @@ A collection of LeetCode Daily Questions.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0064-minimum-path-sum) |
@@ -252,6 +254,7 @@ A collection of LeetCode Daily Questions.
 | [0011-container-with-most-water](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0141-linked-list-cycle) |
 | [0295-find-median-from-data-stream](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0567-permutation-in-string) |
@@ -522,6 +525,7 @@ A collection of LeetCode Daily Questions.
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0042-trapping-rain-water) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -554,4 +558,8 @@ A collection of LeetCode Daily Questions.
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0744-network-delay-time) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
