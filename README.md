@@ -344,6 +344,7 @@ A collection of LeetCode Daily Questions.
 | [0547-number-of-provinces](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0744-network-delay-time) |
 | [1008-binary-tree-cameras](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1008-binary-tree-cameras) |
@@ -362,6 +363,7 @@ A collection of LeetCode Daily Questions.
 | [0542-01-matrix](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0744-network-delay-time) |
 | [1036-rotting-oranges](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1036-rotting-oranges) |
@@ -528,11 +530,13 @@ A collection of LeetCode Daily Questions.
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0684-redundant-connection) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Graph
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0744-network-delay-time) |
 ## Enumeration
 |  |
