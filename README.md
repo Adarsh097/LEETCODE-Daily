@@ -62,6 +62,7 @@ A collection of LeetCode Daily Questions.
 | [1677-matrix-diagonal-sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1677-matrix-diagonal-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1694-make-sum-divisible-by-p) |
 | [1767-design-front-middle-back-queue](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1767-design-front-middle-back-queue) |
+| [1876-map-of-highest-peak](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1876-map-of-highest-peak) |
 | [1923-sentence-similarity-iii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1923-sentence-similarity-iii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -372,6 +373,7 @@ A collection of LeetCode Daily Questions.
 | [0733-flood-fill](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0744-network-delay-time) |
 | [1036-rotting-oranges](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1036-rotting-oranges) |
+| [1876-map-of-highest-peak](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1876-map-of-highest-peak) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
@@ -467,6 +469,7 @@ A collection of LeetCode Daily Questions.
 | [0733-flood-fill](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1036-rotting-oranges) |
 | [1677-matrix-diagonal-sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1677-matrix-diagonal-sum) |
+| [1876-map-of-highest-peak](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1876-map-of-highest-peak) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Simulation
