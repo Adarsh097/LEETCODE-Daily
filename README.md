@@ -352,6 +352,7 @@ A collection of LeetCode Daily Questions.
 | [0733-flood-fill](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0744-network-delay-time) |
 | [1008-binary-tree-cameras](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1008-binary-tree-cameras) |
+| [1300-critical-connections-in-a-network](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1300-critical-connections-in-a-network) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
@@ -544,6 +545,7 @@ A collection of LeetCode Daily Questions.
 | [0547-number-of-provinces](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0744-network-delay-time) |
+| [1300-critical-connections-in-a-network](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1300-critical-connections-in-a-network) |
 ## Enumeration
 |  |
 | ------- |
@@ -565,4 +567,8 @@ A collection of LeetCode Daily Questions.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0084-largest-rectangle-in-histogram) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
