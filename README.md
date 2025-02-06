@@ -147,6 +147,7 @@ A collection of LeetCode Daily Questions.
 | [0049-group-anagrams](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0127-word-ladder) |
+| [0132-palindrome-partitioning-ii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0208-implement-trie-prefix-tree) |
@@ -223,6 +224,7 @@ A collection of LeetCode Daily Questions.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0132-palindrome-partitioning-ii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0213-house-robber-ii) |
