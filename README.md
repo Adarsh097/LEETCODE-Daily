@@ -177,6 +177,7 @@ A collection of LeetCode Daily Questions.
 | [3194-find-words-containing-character](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/3194-find-words-containing-character) |
 | [3195-separate-black-and-white-balls](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/3195-separate-black-and-white-balls) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3447-clear-digits](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/3447-clear-digits) |
 | [3541-report-spam-message](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/3541-report-spam-message) |
 ## Counting
 |  |
@@ -495,6 +496,7 @@ A collection of LeetCode Daily Questions.
 | ------- |
 | [0054-spiral-matrix](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0054-spiral-matrix) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3447-clear-digits](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/3447-clear-digits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -554,6 +556,7 @@ A collection of LeetCode Daily Questions.
 | [1497-design-a-stack-with-increment-operation](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3447-clear-digits](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/3447-clear-digits) |
 ## Union Find
 |  |
 | ------- |
