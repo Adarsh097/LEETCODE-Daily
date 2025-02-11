@@ -336,6 +336,7 @@ A collection of LeetCode Daily Questions.
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0173-binary-search-tree-iterator](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -407,6 +408,7 @@ A collection of LeetCode Daily Questions.
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0173-binary-search-tree-iterator](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -428,6 +430,7 @@ A collection of LeetCode Daily Questions.
 | [0098-validate-binary-search-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0098-validate-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0173-binary-search-tree-iterator](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0240-search-a-2d-matrix-ii) |
@@ -438,6 +441,7 @@ A collection of LeetCode Daily Questions.
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -557,6 +561,7 @@ A collection of LeetCode Daily Questions.
 | [0042-trapping-rain-water](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0173-binary-search-tree-iterator](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0173-binary-search-tree-iterator) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -605,4 +610,8 @@ A collection of LeetCode Daily Questions.
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
