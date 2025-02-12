@@ -199,6 +199,7 @@ A collection of LeetCode Daily Questions.
 | [0670-maximum-swap](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1304-longest-happy-string) |
+| [1448-maximum-69-number](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1448-maximum-69-number) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -215,6 +216,7 @@ A collection of LeetCode Daily Questions.
 | [0241-different-ways-to-add-parentheses](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0241-different-ways-to-add-parentheses) |
 | [0670-maximum-swap](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0670-maximum-swap) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1448-maximum-69-number](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1448-maximum-69-number) |
 ## Dynamic Programming
 |  |
 | ------- |
