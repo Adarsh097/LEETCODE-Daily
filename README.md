@@ -43,6 +43,7 @@ A collection of LeetCode Daily Questions.
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0377-combination-sum-iv) |
+| [0410-split-array-largest-sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -141,6 +142,7 @@ A collection of LeetCode Daily Questions.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0410-split-array-largest-sum) |
 | [0731-my-calendar-ii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0731-my-calendar-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0966-binary-subarrays-with-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -196,6 +198,7 @@ A collection of LeetCode Daily Questions.
 | ------- |
 | [0011-container-with-most-water](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0179-largest-number) |
+| [0410-split-array-largest-sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0455-assign-cookies) |
 | [0670-maximum-swap](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0670-maximum-swap) |
@@ -243,6 +246,7 @@ A collection of LeetCode Daily Questions.
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0337-house-robber-iii) |
 | [0377-combination-sum-iv](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0377-combination-sum-iv) |
+| [0410-split-array-largest-sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0435-non-overlapping-intervals) |
 | [0516-longest-palindromic-subsequence](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0516-longest-palindromic-subsequence) |
@@ -446,6 +450,7 @@ A collection of LeetCode Daily Questions.
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0300-longest-increasing-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0410-split-array-largest-sum) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0729-my-calendar-i](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0731-my-calendar-ii) |
