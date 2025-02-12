@@ -59,6 +59,7 @@ A collection of LeetCode Daily Questions.
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1256-rank-transform-of-an-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -449,6 +450,7 @@ A collection of LeetCode Daily Questions.
 | [0729-my-calendar-i](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0731-my-calendar-ii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Design
 |  |
