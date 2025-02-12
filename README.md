@@ -56,6 +56,7 @@ A collection of LeetCode Daily Questions.
 | [0860-design-circular-queue](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0860-design-circular-queue) |
 | [0966-binary-subarrays-with-sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0966-binary-subarrays-with-sum) |
 | [1036-rotting-oranges](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1036-rotting-oranges) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1256-rank-transform-of-an-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -447,6 +448,7 @@ A collection of LeetCode Daily Questions.
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0729-my-calendar-i](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0731-my-calendar-ii) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Design
 |  |
