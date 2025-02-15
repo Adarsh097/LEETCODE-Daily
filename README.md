@@ -225,6 +225,7 @@ A collection of LeetCode Daily Questions.
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1477-product-of-the-last-k-numbers) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -579,6 +580,7 @@ A collection of LeetCode Daily Questions.
 | [0090-subsets-ii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0090-subsets-ii) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Stack
 |  |
 | ------- |
