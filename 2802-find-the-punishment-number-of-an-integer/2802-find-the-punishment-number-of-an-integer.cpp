@@ -10,19 +10,18 @@ public:
             temp2 = digit*pow(10,i) + temp2;
             i++;
             if(temp2 + temp1 == val)return true;
-            else if(check(temp1,val,temp2)==true)return true;
+            else if(check(temp1,val,temp2))return true;
         }
         return false;
     }
     int punishmentNumber(int n) {
-        
-        int ans = 0;
+        int totalSum = 0;
         for(int i=1;i<=n;i++){
             int num = i*i;
             if(check(num,i,0)){
-                ans += num;
+                totalSum += num;
             }
         }
-        return ans;
+        return totalSum;
     }
 };
