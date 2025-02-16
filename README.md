@@ -45,6 +45,7 @@ A collection of LeetCode Daily Questions.
 | [0377-combination-sum-iv](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0377-combination-sum-iv) |
 | [0410-split-array-largest-sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0416-partition-equal-subset-sum) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0455-assign-cookies) |
@@ -103,6 +104,7 @@ A collection of LeetCode Daily Questions.
 | [0217-contains-duplicate](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0347-top-k-frequent-elements) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0432-all-oone-data-structure](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0432-all-oone-data-structure) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0567-permutation-in-string) |
@@ -483,6 +485,7 @@ A collection of LeetCode Daily Questions.
 | [0139-word-break](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0208-implement-trie-prefix-tree) |
 | [0386-lexicographical-numbers](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0386-lexicographical-numbers) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -567,6 +570,7 @@ A collection of LeetCode Daily Questions.
 | [0090-subsets-ii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0191-number-of-1-bits) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
