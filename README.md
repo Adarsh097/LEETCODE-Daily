@@ -63,6 +63,7 @@ A collection of LeetCode Daily Questions.
 | [0966-binary-subarrays-with-sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0966-binary-subarrays-with-sum) |
 | [1036-rotting-oranges](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1185-find-in-mountain-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1185-find-in-mountain-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -483,6 +484,7 @@ A collection of LeetCode Daily Questions.
 | [0731-my-calendar-ii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0731-my-calendar-ii) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1185-find-in-mountain-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1185-find-in-mountain-array) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Design
@@ -669,4 +671,8 @@ A collection of LeetCode Daily Questions.
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0173-binary-search-tree-iterator) |
+## Interactive
+|  |
+| ------- |
+| [1185-find-in-mountain-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1185-find-in-mountain-array) |
 <!---LeetCode Topics End-->
