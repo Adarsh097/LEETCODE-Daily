@@ -58,6 +58,7 @@ A collection of LeetCode Daily Questions.
 | [0733-flood-fill](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0733-flood-fill) |
 | [0859-design-circular-deque](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0860-design-circular-queue) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0966-binary-subarrays-with-sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0966-binary-subarrays-with-sum) |
 | [1036-rotting-oranges](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1036-rotting-oranges) |
@@ -480,6 +481,7 @@ A collection of LeetCode Daily Questions.
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0729-my-calendar-i](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0731-my-calendar-ii) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1475-maximum-sum-bst-in-binary-tree) |
