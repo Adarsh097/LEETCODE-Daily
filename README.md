@@ -33,6 +33,7 @@ A collection of LeetCode Daily Questions.
 | [0152-maximum-product-subarray](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0179-largest-number) |
 | [0213-house-robber-ii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0215-kth-largest-element-in-an-array) |
@@ -469,6 +470,7 @@ A collection of LeetCode Daily Questions.
 | [0098-validate-binary-search-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0098-validate-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0162-find-peak-element) |
 | [0173-binary-search-tree-iterator](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
