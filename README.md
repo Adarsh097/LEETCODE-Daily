@@ -239,6 +239,7 @@ A collection of LeetCode Daily Questions.
 | [0048-rotate-image](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0096-unique-binary-search-trees) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0241-different-ways-to-add-parentheses) |
@@ -477,6 +478,7 @@ A collection of LeetCode Daily Questions.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0074-search-a-2d-matrix) |
 | [0096-unique-binary-search-trees](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0098-validate-binary-search-tree) |
