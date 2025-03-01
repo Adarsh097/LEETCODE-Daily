@@ -249,6 +249,7 @@ A collection of LeetCode Daily Questions.
 | [0096-unique-binary-search-trees](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0096-unique-binary-search-trees) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0241-different-ways-to-add-parentheses) |
 | [0670-maximum-swap](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0670-maximum-swap) |
+| [1086-divisor-game](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1086-divisor-game) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1477-product-of-the-last-k-numbers) |
@@ -287,6 +288,7 @@ A collection of LeetCode Daily Questions.
 | [0542-01-matrix](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0542-01-matrix) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1008-binary-tree-cameras](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1008-binary-tree-cameras) |
+| [1086-divisor-game](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1086-divisor-game) |
 | [1170-shortest-common-supersequence](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -700,4 +702,12 @@ A collection of LeetCode Daily Questions.
 |  |
 | ------- |
 | [1185-find-in-mountain-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1185-find-in-mountain-array) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
