@@ -87,6 +87,7 @@ A collection of LeetCode Daily Questions.
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2447-merge-similar-items](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2447-merge-similar-items) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2536-determine-if-two-events-have-conflict) |
@@ -135,6 +136,7 @@ A collection of LeetCode Daily Questions.
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2447-merge-similar-items](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2447-merge-similar-items) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2755-extra-characters-in-a-string](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2755-extra-characters-in-a-string) |
@@ -157,6 +159,7 @@ A collection of LeetCode Daily Questions.
 | [0721-accounts-merge](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0721-accounts-merge) |
 | [1256-rank-transform-of-an-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1256-rank-transform-of-an-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [2447-merge-similar-items](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2447-merge-similar-items) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -609,6 +612,7 @@ A collection of LeetCode Daily Questions.
 | ------- |
 | [0729-my-calendar-i](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0731-my-calendar-ii) |
+| [2447-merge-similar-items](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2447-merge-similar-items) |
 ## Queue
 |  |
 | ------- |
