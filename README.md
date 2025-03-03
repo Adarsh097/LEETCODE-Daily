@@ -58,6 +58,7 @@ A collection of LeetCode Daily Questions.
 | [0729-my-calendar-i](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0733-flood-fill) |
+| [0741-cherry-pickup](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0741-cherry-pickup) |
 | [0859-design-circular-deque](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0860-design-circular-queue) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -293,6 +294,7 @@ A collection of LeetCode Daily Questions.
 | [0516-longest-palindromic-subsequence](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0542-01-matrix) |
+| [0741-cherry-pickup](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0741-cherry-pickup) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1008-binary-tree-cameras](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1008-binary-tree-cameras) |
 | [1086-divisor-game](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1086-divisor-game) |
@@ -580,6 +582,7 @@ A collection of LeetCode Daily Questions.
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0733-flood-fill) |
+| [0741-cherry-pickup](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0741-cherry-pickup) |
 | [1036-rotting-oranges](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1036-rotting-oranges) |
 | [1677-matrix-diagonal-sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1677-matrix-diagonal-sum) |
 | [1876-map-of-highest-peak](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1876-map-of-highest-peak) |
