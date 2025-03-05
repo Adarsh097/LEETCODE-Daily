@@ -1,8 +1,7 @@
 class Solution {
 public:
     long long coloredCells(long long n) {
-        if(n==1)return 1;
-        return 1 + (2 * (n-1)*(n));
+        return (n==1)?1 : 1 + (2 * (n-1)*(n));
         
     }
 };
