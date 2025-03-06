@@ -103,6 +103,7 @@ A collection of LeetCode Daily Questions.
 | [2755-extra-characters-in-a-string](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2755-extra-characters-in-a-string) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3194-find-words-containing-character](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/3194-find-words-containing-character) |
+| [3227-find-missing-and-repeated-values](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/3227-find-missing-and-repeated-values) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3541-report-spam-message](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/3541-report-spam-message) |
 ## Hash Table
@@ -146,6 +147,7 @@ A collection of LeetCode Daily Questions.
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2755-extra-characters-in-a-string](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2755-extra-characters-in-a-string) |
 | [2778-frequency-tracker](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2778-frequency-tracker) |
+| [3227-find-missing-and-repeated-values](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/3227-find-missing-and-repeated-values) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3541-report-spam-message](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/3541-report-spam-message) |
 ## Sorting
@@ -267,6 +269,7 @@ A collection of LeetCode Daily Questions.
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3227-find-missing-and-repeated-values](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -599,6 +602,7 @@ A collection of LeetCode Daily Questions.
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3227-find-missing-and-repeated-values](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
