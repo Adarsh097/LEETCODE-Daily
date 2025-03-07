@@ -270,6 +270,7 @@ A collection of LeetCode Daily Questions.
 | [1448-maximum-69-number](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1477-product-of-the-last-k-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2610-closest-prime-numbers-in-range](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/3227-find-missing-and-repeated-values) |
@@ -745,4 +746,8 @@ A collection of LeetCode Daily Questions.
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1086-divisor-game) |
+## Number Theory
+|  |
+| ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2610-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
