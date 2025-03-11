@@ -1,23 +1,19 @@
 class Solution {
 public:
+    bool check(vector<int>&nums,int mid){
+        return nums[mid]<nums[0];
+    }
     int findMin(vector<int>& nums) {
-     int s = 0;
-     int e = nums.size()-1;
-     int ans = 50001;
-     while(s<=e){
-        if(nums[s]<=nums[e]){
-            ans = min(ans,nums[s]);
-            break;
+        int low = 0, high = nums.size()-1, ans = 0;
+        while(low<=high){
+            int mid = (high-low)/2 + low;
+            if(check(nums,mid)){
+                ans = mid;
+                high = mid-1;
+            }else{
+                low = mid+1;
+            }
         }
-        int mid = (e-s)/2 + s;
-        if(nums[mid] >= nums[s]){
-            ans = min(nums[s],ans);
-            s = mid+1;
-        }else{
-            ans = min(ans,nums[mid]);
-            e = mid-1;
-        }
-     }   
-     return ans;
+        return nums[ans];
     }
 };
