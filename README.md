@@ -74,6 +74,7 @@ A collection of LeetCode Daily Questions.
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1185-find-in-mountain-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1185-find-in-mountain-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1256-rank-transform-of-an-array) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1477-product-of-the-last-k-numbers) |
@@ -544,6 +545,7 @@ A collection of LeetCode Daily Questions.
 | [1046-max-consecutive-ones-iii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1185-find-in-mountain-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1185-find-in-mountain-array) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
