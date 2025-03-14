@@ -91,6 +91,7 @@ A collection of LeetCode Daily Questions.
 | [1876-map-of-highest-peak](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1876-map-of-highest-peak) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1923-sentence-similarity-iii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1923-sentence-similarity-iii) |
+| [2000-minimum-speed-to-arrive-on-time](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -550,6 +551,7 @@ A collection of LeetCode Daily Questions.
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [2000-minimum-speed-to-arrive-on-time](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Design
 |  |
