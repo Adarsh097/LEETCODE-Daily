@@ -7,6 +7,7 @@ public:
             int candycount = candies[i];
             count += candycount/mid;
             i++;
+            if(count>=k)break;
         }
         return count>=k;
     }
