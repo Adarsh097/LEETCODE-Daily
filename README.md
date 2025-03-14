@@ -96,6 +96,7 @@ A collection of LeetCode Daily Questions.
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2294-minimum-time-to-complete-trips](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2294-minimum-time-to-complete-trips) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2447-merge-similar-items](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2447-merge-similar-items) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -552,6 +553,7 @@ A collection of LeetCode Daily Questions.
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2000-minimum-speed-to-arrive-on-time) |
+| [2294-minimum-time-to-complete-trips](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2294-minimum-time-to-complete-trips) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Design
 |  |
