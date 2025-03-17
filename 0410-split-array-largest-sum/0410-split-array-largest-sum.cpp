@@ -1,29 +1,29 @@
 class Solution {
 public:
-    bool check(vector<int>&arr,int k,int sum){
-        int temp = sum;
+    bool check(vector<int>&nums,int k,int mid){
         k-=1;
-        for(int i=0;i<arr.size();i++){
-            int val = arr[i];
+        int temp = mid;
+        for(int i=0;i<nums.size();i++){
+            int val = nums[i];
             if(temp>=val){
                 temp-=val;
             }else{
                 if(k==0)return false;
-                k--;
-                temp = sum;
+                k-=1;
+                temp = mid;
                 if(temp<val)return false;
-                temp -= val;
+                temp-=val;
             }
         }
         return true;
     }
     int splitArray(vector<int>& nums, int k) {
-        int low = *max_element(nums.begin(),nums.end());
-        int high = accumulate(nums.begin(),nums.end(),0);
+        int low = *min_element(nums.begin(),nums.end()),
+        high = accumulate(nums.begin(),nums.end(),0);
+
         int ans = high;
         while(low<=high){
-            int mid = (high-low)/2 + low;
-
+            int mid  = low + ((high-low)>>1);
             if(check(nums,k,mid)){
                 ans = mid;
                 high = mid-1;
