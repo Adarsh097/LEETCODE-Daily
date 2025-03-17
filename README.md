@@ -208,6 +208,7 @@ A collection of LeetCode Daily Questions.
 | [0049-group-anagrams](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0179-largest-number) |
@@ -310,6 +311,7 @@ A collection of LeetCode Daily Questions.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0152-maximum-product-subarray) |
@@ -705,6 +707,7 @@ A collection of LeetCode Daily Questions.
 | [0051-n-queens](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0052-n-queens-ii) |
 | [0090-subsets-ii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0131-palindrome-partitioning) |
 | [0813-all-paths-from-source-to-target](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0813-all-paths-from-source-to-target) |
 | [1160-letter-tile-possibilities](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1160-letter-tile-possibilities) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
