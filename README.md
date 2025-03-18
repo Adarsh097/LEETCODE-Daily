@@ -103,6 +103,7 @@ A collection of LeetCode Daily Questions.
 | [2308-divide-array-into-equal-pairs](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2447-merge-similar-items](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2447-merge-similar-items) |
+| [2478-longest-nice-subarray](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2478-longest-nice-subarray) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -667,6 +668,7 @@ A collection of LeetCode Daily Questions.
 | [1046-max-consecutive-ones-iii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2478-longest-nice-subarray](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2478-longest-nice-subarray) |
 ## Combinatorics
 |  |
 | ------- |
@@ -703,6 +705,7 @@ A collection of LeetCode Daily Questions.
 | [2308-divide-array-into-equal-pairs](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2478-longest-nice-subarray](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2478-longest-nice-subarray) |
 ## Backtracking
 |  |
 | ------- |
