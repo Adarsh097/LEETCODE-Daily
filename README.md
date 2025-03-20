@@ -24,6 +24,7 @@ A collection of LeetCode Daily Questions.
 | [0064-minimum-path-sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -308,6 +309,7 @@ A collection of LeetCode Daily Questions.
 | [0062-unique-paths](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0118-pascals-triangle) |
@@ -636,6 +638,7 @@ A collection of LeetCode Daily Questions.
 | [0054-spiral-matrix](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0174-dungeon-game) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0240-search-a-2d-matrix-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -730,6 +733,7 @@ A collection of LeetCode Daily Questions.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0173-binary-search-tree-iterator) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -775,6 +779,7 @@ A collection of LeetCode Daily Questions.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0085-maximal-rectangle) |
 ## Biconnected Component
 |  |
 | ------- |
