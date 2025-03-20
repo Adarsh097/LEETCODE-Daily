@@ -121,6 +121,7 @@ A collection of LeetCode Daily Questions.
 | [3194-find-words-containing-character](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/3227-find-missing-and-repeated-values) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3541-report-spam-message](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/3541-report-spam-message) |
 ## Hash Table
@@ -713,6 +714,7 @@ A collection of LeetCode Daily Questions.
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2478-longest-nice-subarray](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2478-longest-nice-subarray) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Backtracking
 |  |
@@ -748,6 +750,7 @@ A collection of LeetCode Daily Questions.
 | [0684-redundant-connection](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0721-accounts-merge) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Graph
 |  |
 | ------- |
@@ -758,6 +761,7 @@ A collection of LeetCode Daily Questions.
 | [0744-network-delay-time](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0813-all-paths-from-source-to-target) |
 | [1300-critical-connections-in-a-network](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1300-critical-connections-in-a-network) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Enumeration
 |  |
 | ------- |
