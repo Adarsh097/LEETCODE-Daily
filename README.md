@@ -79,6 +79,7 @@ A collection of LeetCode Daily Questions.
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1418-fair-distribution-of-cookies](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1418-fair-distribution-of-cookies) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -340,6 +341,7 @@ A collection of LeetCode Daily Questions.
 | [1086-divisor-game](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1086-divisor-game) |
 | [1170-shortest-common-supersequence](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1250-longest-common-subsequence) |
+| [1418-fair-distribution-of-cookies](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1418-fair-distribution-of-cookies) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1559-cherry-pickup-ii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1559-cherry-pickup-ii) |
@@ -709,6 +711,7 @@ A collection of LeetCode Daily Questions.
 | [0136-single-number](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0191-number-of-1-bits) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1418-fair-distribution-of-cookies](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1418-fair-distribution-of-cookies) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -727,6 +730,7 @@ A collection of LeetCode Daily Questions.
 | [0131-palindrome-partitioning](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0131-palindrome-partitioning) |
 | [0813-all-paths-from-source-to-target](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0813-all-paths-from-source-to-target) |
 | [1160-letter-tile-possibilities](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1160-letter-tile-possibilities) |
+| [1418-fair-distribution-of-cookies](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1418-fair-distribution-of-cookies) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -816,4 +820,8 @@ A collection of LeetCode Daily Questions.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0023-merge-k-sorted-lists) |
+## Bitmask
+|  |
+| ------- |
+| [1418-fair-distribution-of-cookies](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1418-fair-distribution-of-cookies) |
 <!---LeetCode Topics End-->
