@@ -92,6 +92,7 @@ A collection of LeetCode Daily Questions.
 | [1677-matrix-diagonal-sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1677-matrix-diagonal-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1694-make-sum-divisible-by-p) |
 | [1767-design-front-middle-back-queue](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1767-design-front-middle-back-queue) |
+| [1825-find-minimum-time-to-finish-all-jobs](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1876-map-of-highest-peak) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -346,6 +347,7 @@ A collection of LeetCode Daily Questions.
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1559-cherry-pickup-ii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1559-cherry-pickup-ii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1825-find-minimum-time-to-finish-all-jobs](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2755-extra-characters-in-a-string](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2755-extra-characters-in-a-string) |
@@ -712,6 +714,7 @@ A collection of LeetCode Daily Questions.
 | [0191-number-of-1-bits](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0191-number-of-1-bits) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1418-fair-distribution-of-cookies](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1418-fair-distribution-of-cookies) |
+| [1825-find-minimum-time-to-finish-all-jobs](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -732,6 +735,7 @@ A collection of LeetCode Daily Questions.
 | [1160-letter-tile-possibilities](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1160-letter-tile-possibilities) |
 | [1418-fair-distribution-of-cookies](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1418-fair-distribution-of-cookies) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1825-find-minimum-time-to-finish-all-jobs](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Stack
@@ -824,4 +828,5 @@ A collection of LeetCode Daily Questions.
 |  |
 | ------- |
 | [1418-fair-distribution-of-cookies](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1418-fair-distribution-of-cookies) |
+| [1825-find-minimum-time-to-finish-all-jobs](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 <!---LeetCode Topics End-->
