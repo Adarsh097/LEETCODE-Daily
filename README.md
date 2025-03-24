@@ -494,6 +494,7 @@ A collection of LeetCode Daily Questions.
 | [0721-accounts-merge](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0744-network-delay-time) |
+| [0801-is-graph-bipartite](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0813-all-paths-from-source-to-target) |
 | [1008-binary-tree-cameras](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1008-binary-tree-cameras) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -521,6 +522,7 @@ A collection of LeetCode Daily Questions.
 | [0721-accounts-merge](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0744-network-delay-time) |
+| [0801-is-graph-bipartite](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0813-all-paths-from-source-to-target) |
 | [1036-rotting-oranges](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1036-rotting-oranges) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -766,6 +768,7 @@ A collection of LeetCode Daily Questions.
 | [0547-number-of-provinces](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0721-accounts-merge) |
+| [0801-is-graph-bipartite](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0801-is-graph-bipartite) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Graph
@@ -776,6 +779,7 @@ A collection of LeetCode Daily Questions.
 | [0547-number-of-provinces](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0744-network-delay-time) |
+| [0801-is-graph-bipartite](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0813-all-paths-from-source-to-target) |
 | [1300-critical-connections-in-a-network](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1300-critical-connections-in-a-network) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
