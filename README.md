@@ -69,6 +69,7 @@ A collection of LeetCode Daily Questions.
 | [0907-koko-eating-bananas](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0907-koko-eating-bananas) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0966-binary-subarrays-with-sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0966-binary-subarrays-with-sum) |
+| [1028-interval-list-intersections](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1028-interval-list-intersections) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1046-max-consecutive-ones-iii) |
@@ -382,6 +383,7 @@ A collection of LeetCode Daily Questions.
 | [0455-assign-cookies](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0567-permutation-in-string](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0567-permutation-in-string) |
+| [1028-interval-list-intersections](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1028-interval-list-intersections) |
 | [1923-sentence-similarity-iii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -831,4 +833,8 @@ A collection of LeetCode Daily Questions.
 | ------- |
 | [1418-fair-distribution-of-cookies](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1418-fair-distribution-of-cookies) |
 | [1825-find-minimum-time-to-finish-all-jobs](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
+## Line Sweep
+|  |
+| ------- |
+| [1028-interval-list-intersections](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1028-interval-list-intersections) |
 <!---LeetCode Topics End-->
