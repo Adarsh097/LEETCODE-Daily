@@ -39,6 +39,7 @@ A collection of LeetCode Daily Questions.
 | [0162-find-peak-element](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0162-find-peak-element) |
 | [0174-dungeon-game](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0179-largest-number) |
+| [0200-number-of-islands](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0217-contains-duplicate) |
@@ -476,6 +477,7 @@ A collection of LeetCode Daily Questions.
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -507,6 +509,7 @@ A collection of LeetCode Daily Questions.
 | [0104-maximum-depth-of-binary-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -649,6 +652,7 @@ A collection of LeetCode Daily Questions.
 | [0074-search-a-2d-matrix](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0174-dungeon-game) |
+| [0200-number-of-islands](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0240-search-a-2d-matrix-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0542-01-matrix) |
@@ -758,6 +762,7 @@ A collection of LeetCode Daily Questions.
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0721-accounts-merge) |
