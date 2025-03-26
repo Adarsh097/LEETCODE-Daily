@@ -101,6 +101,7 @@ A collection of LeetCode Daily Questions.
 | [1923-sentence-similarity-iii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1923-sentence-similarity-iii) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -192,6 +193,7 @@ A collection of LeetCode Daily Questions.
 | [0721-accounts-merge](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0721-accounts-merge) |
 | [1256-rank-transform-of-an-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1256-rank-transform-of-an-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2447-merge-similar-items](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2447-merge-similar-items) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -301,6 +303,7 @@ A collection of LeetCode Daily Questions.
 | [1448-maximum-69-number](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1477-product-of-the-last-k-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -665,6 +668,7 @@ A collection of LeetCode Daily Questions.
 | [1559-cherry-pickup-ii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1559-cherry-pickup-ii) |
 | [1677-matrix-diagonal-sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1677-matrix-diagonal-sum) |
 | [1876-map-of-highest-peak](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1876-map-of-highest-peak) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2764-maximum-number-of-fish-in-a-grid) |
