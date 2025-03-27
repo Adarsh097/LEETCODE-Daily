@@ -59,6 +59,7 @@ A collection of LeetCode Daily Questions.
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0518-coin-change-ii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0542-01-matrix) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0721-accounts-merge) |
 | [0729-my-calendar-i](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0731-my-calendar-ii) |
@@ -194,6 +195,7 @@ A collection of LeetCode Daily Questions.
 | [0435-non-overlapping-intervals](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0721-accounts-merge) |
 | [1256-rank-transform-of-an-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1256-rank-transform-of-an-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -303,6 +305,7 @@ A collection of LeetCode Daily Questions.
 | [0096-unique-binary-search-trees](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0096-unique-binary-search-trees) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0241-different-ways-to-add-parentheses) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0670-maximum-swap](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0670-maximum-swap) |
 | [1086-divisor-game](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1086-divisor-game) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
