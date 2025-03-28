@@ -118,6 +118,7 @@ A collection of LeetCode Daily Questions.
 | [2536-determine-if-two-events-have-conflict](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2551-apply-operations-to-an-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2665-minimum-time-to-repair-cars) |
@@ -203,6 +204,7 @@ A collection of LeetCode Daily Questions.
 | [2447-merge-similar-items](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2447-merge-similar-items) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/3430-count-days-without-meetings) |
@@ -403,6 +405,7 @@ A collection of LeetCode Daily Questions.
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2551-apply-operations-to-an-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3195-separate-black-and-white-balls](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/3195-separate-black-and-white-balls) |
 ## Rolling Hash
@@ -443,6 +446,7 @@ A collection of LeetCode Daily Questions.
 | [1304-longest-happy-string](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1304-longest-happy-string) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Bucket Sort
 |  |
@@ -539,6 +543,7 @@ A collection of LeetCode Daily Questions.
 | [1036-rotting-oranges](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1036-rotting-oranges) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1876-map-of-highest-peak](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1876-map-of-highest-peak) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
@@ -680,6 +685,7 @@ A collection of LeetCode Daily Questions.
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
@@ -782,6 +788,7 @@ A collection of LeetCode Daily Questions.
 | [0684-redundant-connection](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0801-is-graph-bipartite) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Graph
