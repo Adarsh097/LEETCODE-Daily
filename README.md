@@ -59,6 +59,7 @@ A collection of LeetCode Daily Questions.
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0518-coin-change-ii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0542-01-matrix) |
+| [0561-array-partition](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0721-accounts-merge) |
 | [0729-my-calendar-i](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0729-my-calendar-i) |
@@ -196,6 +197,7 @@ A collection of LeetCode Daily Questions.
 | [0435-non-overlapping-intervals](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0561-array-partition](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0721-accounts-merge) |
 | [1256-rank-transform-of-an-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1256-rank-transform-of-an-array) |
@@ -287,6 +289,7 @@ A collection of LeetCode Daily Questions.
 | [0410-split-array-largest-sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0561-array-partition) |
 | [0670-maximum-swap](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1304-longest-happy-string) |
@@ -866,4 +869,8 @@ A collection of LeetCode Daily Questions.
 |  |
 | ------- |
 | [1028-interval-list-intersections](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1028-interval-list-intersections) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
