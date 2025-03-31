@@ -128,6 +128,7 @@ A collection of LeetCode Daily Questions.
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2755-extra-characters-in-a-string](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2755-extra-characters-in-a-string) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2845-find-the-value-of-the-partition](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2845-find-the-value-of-the-partition) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3194-find-words-containing-character](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/3227-find-missing-and-repeated-values) |
@@ -210,6 +211,7 @@ A collection of LeetCode Daily Questions.
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2845-find-the-value-of-the-partition](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2845-find-the-value-of-the-partition) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/3430-count-days-without-meetings) |
 ## Prefix Sum
