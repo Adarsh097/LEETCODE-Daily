@@ -130,6 +130,7 @@ A collection of LeetCode Daily Questions.
 | [2755-extra-characters-in-a-string](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2755-extra-characters-in-a-string) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2845-find-the-value-of-the-partition](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2845-find-the-value-of-the-partition) |
+| [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3194-find-words-containing-character](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/3227-find-missing-and-repeated-values) |
@@ -380,6 +381,7 @@ A collection of LeetCode Daily Questions.
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2755-extra-characters-in-a-string](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2755-extra-characters-in-a-string) |
+| [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Recursion
 |  |
 | ------- |
