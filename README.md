@@ -102,6 +102,7 @@ A collection of LeetCode Daily Questions.
 | [1876-map-of-highest-peak](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1876-map-of-highest-peak) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1923-sentence-similarity-iii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1923-sentence-similarity-iii) |
+| [1952-minimum-sideway-jumps](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1952-minimum-sideway-jumps) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -301,6 +302,7 @@ A collection of LeetCode Daily Questions.
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1304-longest-happy-string) |
 | [1448-maximum-69-number](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1448-maximum-69-number) |
+| [1952-minimum-sideway-jumps](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1952-minimum-sideway-jumps) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -379,6 +381,7 @@ A collection of LeetCode Daily Questions.
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1825-find-minimum-time-to-finish-all-jobs](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1952-minimum-sideway-jumps](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1952-minimum-sideway-jumps) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2755-extra-characters-in-a-string](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2755-extra-characters-in-a-string) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
