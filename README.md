@@ -105,6 +105,7 @@ A collection of LeetCode Daily Questions.
 | [1923-sentence-similarity-iii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1923-sentence-similarity-iii) |
 | [1952-minimum-sideway-jumps](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1952-minimum-sideway-jumps) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -330,6 +331,7 @@ A collection of LeetCode Daily Questions.
 | [1448-maximum-69-number](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1477-product-of-the-last-k-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2649-count-total-number-of-colored-cells) |
@@ -735,6 +737,7 @@ A collection of LeetCode Daily Questions.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0062-unique-paths) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Segment Tree
 |  |
 | ------- |
@@ -766,6 +769,7 @@ A collection of LeetCode Daily Questions.
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1418-fair-distribution-of-cookies](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1418-fair-distribution-of-cookies) |
 | [1825-find-minimum-time-to-finish-all-jobs](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -787,6 +791,7 @@ A collection of LeetCode Daily Questions.
 | [1418-fair-distribution-of-cookies](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1418-fair-distribution-of-cookies) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1825-find-minimum-time-to-finish-all-jobs](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Stack
@@ -828,6 +833,7 @@ A collection of LeetCode Daily Questions.
 ## Enumeration
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Database
 |  |
