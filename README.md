@@ -13,6 +13,7 @@ A collection of LeetCode Daily Questions.
 | [0036-valid-sudoku](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0039-combination-sum) |
+| [0041-first-missing-positive](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0048-rotate-image) |
@@ -150,6 +151,7 @@ A collection of LeetCode Daily Questions.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
