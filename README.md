@@ -37,6 +37,7 @@ A collection of LeetCode Daily Questions.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0200-number-of-islands) |
@@ -156,6 +157,7 @@ A collection of LeetCode Daily Questions.
 | [0133-clone-graph](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0219-contains-duplicate-ii) |
@@ -195,6 +197,7 @@ A collection of LeetCode Daily Questions.
 | ------- |
 | [0015-3sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0217-contains-duplicate) |
@@ -279,6 +282,7 @@ A collection of LeetCode Daily Questions.
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0347-top-k-frequent-elements) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1034-subarrays-with-k-different-integers) |
@@ -452,6 +456,7 @@ A collection of LeetCode Daily Questions.
 | [0053-maximum-subarray](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0240-search-a-2d-matrix-ii) |
