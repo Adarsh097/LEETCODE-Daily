@@ -323,6 +323,7 @@ A collection of LeetCode Daily Questions.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0050-powx-n) |
@@ -402,6 +403,7 @@ A collection of LeetCode Daily Questions.
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0044-wildcard-matching) |
@@ -683,6 +685,7 @@ A collection of LeetCode Daily Questions.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0023-merge-k-sorted-lists) |
