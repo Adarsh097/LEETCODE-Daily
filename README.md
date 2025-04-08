@@ -144,6 +144,7 @@ A collection of LeetCode Daily Questions.
 | [3430-count-days-without-meetings](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3541-report-spam-message](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/3541-report-spam-message) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Hash Table
 |  |
 | ------- |
@@ -194,6 +195,7 @@ A collection of LeetCode Daily Questions.
 | [3227-find-missing-and-repeated-values](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/3227-find-missing-and-repeated-values) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3541-report-spam-message](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/3541-report-spam-message) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Sorting
 |  |
 | ------- |
