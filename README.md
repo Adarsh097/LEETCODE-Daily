@@ -48,6 +48,7 @@ A collection of LeetCode Daily Questions.
 | [0219-contains-duplicate-ii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0300-longest-increasing-subsequence) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0347-top-k-frequent-elements) |
@@ -429,6 +430,7 @@ A collection of LeetCode Daily Questions.
 | [0042-trapping-rain-water](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0455-assign-cookies) |
