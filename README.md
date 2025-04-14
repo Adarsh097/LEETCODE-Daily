@@ -41,6 +41,7 @@ A collection of LeetCode Daily Questions.
 | [0169-majority-element](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0215-kth-largest-element-in-an-array) |
@@ -334,6 +335,7 @@ A collection of LeetCode Daily Questions.
 | [0069-sqrtx](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0096-unique-binary-search-trees) |
+| [0189-rotate-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0241-different-ways-to-add-parentheses) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0628-maximum-product-of-three-numbers) |
@@ -430,6 +432,7 @@ A collection of LeetCode Daily Questions.
 | [0042-trapping-rain-water](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0392-is-subsequence) |
