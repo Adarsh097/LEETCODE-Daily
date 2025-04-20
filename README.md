@@ -70,6 +70,7 @@ A collection of LeetCode Daily Questions.
 | [0731-my-calendar-ii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0733-flood-fill) |
 | [0741-cherry-pickup](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0741-cherry-pickup) |
+| [0797-rabbits-in-forest](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0797-rabbits-in-forest) |
 | [0859-design-circular-deque](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0860-design-circular-queue) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -173,6 +174,7 @@ A collection of LeetCode Daily Questions.
 | [0442-find-all-duplicates-in-an-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0721-accounts-merge) |
+| [0797-rabbits-in-forest](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -313,6 +315,7 @@ A collection of LeetCode Daily Questions.
 | [0455-assign-cookies](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0561-array-partition) |
 | [0670-maximum-swap](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0670-maximum-swap) |
+| [0797-rabbits-in-forest](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0797-rabbits-in-forest) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1304-longest-happy-string) |
@@ -340,6 +343,7 @@ A collection of LeetCode Daily Questions.
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0670-maximum-swap](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0670-maximum-swap) |
+| [0797-rabbits-in-forest](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0797-rabbits-in-forest) |
 | [1086-divisor-game](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1086-divisor-game) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1448-maximum-69-number) |
