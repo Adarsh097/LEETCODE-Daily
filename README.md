@@ -139,6 +139,7 @@ A collection of LeetCode Daily Questions.
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2845-find-the-value-of-the-partition](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2845-find-the-value-of-the-partition) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3194-find-words-containing-character](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/3227-find-missing-and-repeated-values) |
@@ -195,6 +196,7 @@ A collection of LeetCode Daily Questions.
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2755-extra-characters-in-a-string](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2755-extra-characters-in-a-string) |
 | [2778-frequency-tracker](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2778-frequency-tracker) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/3227-find-missing-and-repeated-values) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -762,6 +764,7 @@ A collection of LeetCode Daily Questions.
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2478-longest-nice-subarray) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Combinatorics
 |  |
