@@ -1,0 +1,13 @@
+class Solution {
+public:
+    int countSubarrays(vector<int>& nums) {
+     int i=0,j=2;
+     int cnt = 0;
+     while(j<nums.size()){
+        int sum = (double)nums[i] + nums[j];
+        if(sum == nums[j-1]/2.0)cnt++;
+        i++;j++;
+     }   
+     return cnt;
+    }
+};
