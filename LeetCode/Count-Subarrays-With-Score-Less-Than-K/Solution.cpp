@@ -9,7 +9,6 @@ public:
                 if(i==j){
                     i++;
                     sum = 0;
-                    prod = 1;
                     break;
                 }
                 sum -= nums[i];
