@@ -1,41 +1,38 @@
 class Solution {
 public:
-    int lowerBound(vector<int>& nums,int target){
-        int s = 0, e = nums.size()-1;
-        int ans = -1;
-        while(s<=e){
-            int mid = (e-s)/2 + s;
-            if(nums[mid] == target){
+    bool check1(int val, int target) { return val >= target; }
+    bool check2(int val, int target) { return val > target; }
+    int firstOcurr(vector<int>& nums, int target) {
+        int ans = -1, low = 0, high = nums.size() - 1;
+        while (low <= high) {
+            int mid = ((high - low) >> 1) + low;
+            if (check1(nums[mid], target)) {
                 ans = mid;
-                e = mid-1;
-            }else if(nums[mid]>target){
-                e = mid-1;
-            }else{
-                s = mid+1;
+                high = mid - 1;
+            } else {
+                low = mid + 1;
             }
         }
         return ans;
     }
-        int upperBound(vector<int>& nums,int target){
-        int s = 0, e = nums.size()-1;
-        int ans = -1;
-        while(s<=e){
-            int mid = (e-s)/2 + s;
-            if(nums[mid] == target){
+    int lastOcurr(vector<int>& nums, int target) {
+        int ans = nums.size(), low = 0, high = nums.size() - 1;
+        while (low <= high) {
+            int mid = ((high - low) >> 1) + low;
+            if (check2(nums[mid], target)) {
                 ans = mid;
-                s = mid+1;
-            }else if(nums[mid]>target){
-                e = mid-1;
-            }else{
-                s = mid+1;
+                high = mid - 1;
+            } else {
+                low = mid + 1;
             }
         }
         return ans;
     }
     vector<int> searchRange(vector<int>& nums, int target) {
-        int lb = lowerBound(nums,target);
-        if(lb==-1)return {-1,-1};
-        int ub = upperBound(nums,target);
-        return {lb,ub};
+        int fo = firstOcurr(nums, target);
+        if (fo == -1 || nums[fo] != target)
+            return {-1, -1};
+        int lo = lastOcurr(nums, target);
+        return {fo, lo-1};
     }
 };
