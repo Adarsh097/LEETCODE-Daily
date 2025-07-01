@@ -3,20 +3,22 @@ public:
     int possibleStringCount(string word) {
         int cnt = 0;
         word += '#';
-        unordered_map<char,int>m;
+        // unordered_map<char,int>m;
+        int total = 1;
         int flag = true;
         for(int i=0;i<word.size()-1;i++){
             if(word[i]!=word[i+1]){
                 if(flag){
-                    cnt += m[word[i]]+1;
+                    cnt += total;
                     flag = false;
-                    m[word[i]] = 0;
+                   total = 1;
                 }else{
-                    cnt += m[word[i]];
-                     m[word[i]] = 0;
+                    cnt += total-1;
+                    total= 1;
                 }
             }else{
-                m[word[i]]++;
+                // m[word[i]]++;
+                total++;
             }   
         }
         return cnt;
