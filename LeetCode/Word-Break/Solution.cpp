@@ -1,24 +1,33 @@
 class Solution {
 public:
     unordered_map<string,bool>m;
-    unordered_map<int,bool>dp;
-    bool solve(string &s,int ind){
-        if(ind==s.size())return true;
-        if(dp.find(ind) != dp.end())return dp[ind];
-        string str = "";
-        for(int i=ind;i<s.size();i++){
-            str += s[i];
-            if(m.find(str)!=m.end()){
-                if(solve(s,i+1))return dp[ind] = true;
+    vector<int>dp;
+    bool solve(string &s, int ind, int &n){
+        if(ind == n){
+            // string todte-todte end mein agaye
+            return true;
+        }
+
+        // if complete string is preseint in dict
+        if(m.find(s) != m.end())return true;
+
+        if(dp[ind] !=-1)return dp[ind];
+
+        for(int l=1;l<=n;l++){
+            string temp = s.substr(ind,l);
+            if(m.find(temp)!=m.end()  && solve(s,ind+l,n)){
+                return dp[ind] = true;
             }
         }
         return dp[ind] = false;
     }
     bool wordBreak(string s, vector<string>& wordDict) {
-        for(auto &word : wordDict){
-            m[word] = true;
+        for(auto &str : wordDict){
+            m[str] = true;
         }
-        bool ans = solve(s,0);
+        int n = s.size();
+        dp.resize(n+1,-1);
+        bool ans = solve(s,0,n);
         return ans;
     }
 };
