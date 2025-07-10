@@ -1,49 +1,30 @@
 class Solution {
 public:
     vector<int>dp;
-    int solve(int ind,string &s,int n){
-        if(ind == n){
-            // reachead at the last index -> so valid decode is found
-            return 1;
+    int solve(string &s,int ind){
+        if(ind==s.size())return 1;
+        if(ind > s.size())return 0;
+        if(dp[ind]!=-1)return dp[ind];
+
+        int num1 = stoi(s.substr(ind,1));
+        int total = 0;
+        if(num1!=0){
+            total += solve(s,ind+1);
         }
 
-        if(s[ind] == '0'){
-            //decode is not possible
-            return 0;
+        int num2 = INT_MAX;
+        if(s.size()-ind>=2){
+            num2 = stoi(s.substr(ind,2));
+            if(num2>=10 && num2<=26){
+                total += solve(s,ind+2);
+            }
         }
-        if(dp[ind] !=-1)return dp[ind];
-
-        int result = solve(ind+1,s,n);
-
-        if(ind+1<n){
-            // taking two characters
-            if(s[ind]=='1' || s[ind] == '2' && s[ind+1] <= '6')
-            result += solve(ind+2,s,n);
-        }
-        return dp[ind] = result;
+        return dp[ind] = total;
     }
     int numDecodings(string s) {
-        int n = s.size();
-
-        // dp.resize(n+1,-1);
-        // int ans = solve(0,s,n);
-        // return ans;
-
-        /* BOTTOM UP */
-
-        vector<int>dp(n+1);
-        dp[n] = 1;
-        for(int i=n-1;i>=0;i--){
-            if(s[i] != '0'){
-            dp[i] = dp[i+1];
-            if(i+1 < n){
-            if(s[i]=='1' || s[i]=='2' && s[i+1] <= '6'){
-                dp[i] += dp[i+2];
-            }
-            }
-            }
-        }
-        return  dp[0];
-        
+        int n  = s.size();
+        dp.resize(n+1,-1);
+        int ans = solve(s,0);
+        return ans;
     }
 };
