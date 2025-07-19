@@ -1,0 +1,19 @@
+class Solution {
+public:
+    vector<vector<int>>dp;
+    int solve(int num,int n){
+        if(n==0)return 0;
+        if(n<0 || num<=0)return INT_MAX-1;
+        if(dp[num][n]!=-1)return dp[num][n];
+        int val = num*num;
+        int opt1 = solve(num-1,n);
+        int opt2 = 1 + solve(num,n-val);
+        return dp[num][n] = min(opt1,opt2);
+    }
+    int numSquares(int n) {
+        int val = sqrt(n);
+        dp.resize(val+1,vector<int>(n+1,-1));
+        int ans = solve(val,n);
+        return ans;
+    }
+};
