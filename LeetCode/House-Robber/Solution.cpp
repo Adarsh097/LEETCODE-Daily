@@ -3,23 +3,27 @@ public:
    
     int rob(vector<int>& nums) {
         int n=nums.size()-1;
-        //creating the vector array
-        vector<int>dp(n+1,0);
-        //for zero house case
-        dp[0]=nums[0];
 
+        //if index get negative
+        int prev2=0;
+        if(n<0)return prev2;
+        //for only one house
+        int prev1=nums[0];
+        if(n==0)return prev1;
+
+        int curr;
         for(int i=1;i<=n;i++){
-        int temp=0;
-        if(i-2>=0){
-            temp=dp[i-2];
-        }
+    
         //include
-        int include=nums[i] + temp;
+        int include=nums[i] + prev2;
         //exclude
-        int exclude= 0 + dp[i-1];
+        int exclude= 0 + prev1;
         //storing the ans
-        dp[i] = max(include,exclude);
+        curr = max(include,exclude);
+
+        prev2=prev1;
+        prev1=curr;
         }
-        return dp[n];
+        return curr;
     }
 };
