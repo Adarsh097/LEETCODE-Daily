@@ -2,9 +2,7 @@ class Solution {
 public:
     int distanceBetweenBusStops(vector<int>& distance, int start, int destination) {
         vector<int>arr(distance.begin(),distance.end());
-        for(auto val : distance){
-            arr.push_back(val);
-        }
+       
         int n = distance.size();
         int ind1 = start;
         int ind2 = destination;
