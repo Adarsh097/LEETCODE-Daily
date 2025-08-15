@@ -1,3 +1,7 @@
-public static boolean isPowerOfTwo(int n) {
-	return n < 1 ? false : (n & (n - 1)) == 0 ? true : false;
-}
+class Solution {
+public:
+    bool isPowerOfTwo(int n) {
+        if(n<=0)return false;
+        return log10(n)/log10(2) == (int)(log10(n)/log10(2));
+    }
+};
