@@ -1,33 +1,31 @@
-class DisjointSet{
-    public:
-    vector<int>parent;
-    vector<int>size;
-    DisjointSet(int n){
-        size.assign(n+1,1);
-        parent.resize(n+1);
-        for(int i=0;i<=n;i++){
+class DisjointSet {
+public:
+    vector<int> parent;
+    vector<int> size;
+
+    DisjointSet(int n) {
+        parent.resize(n + 1);
+        size.assign(n + 1, 1);
+        for (int i = 0; i <= n; i++) {
             parent[i] = i;
         }
     }
 
-    int findUP(int node){
-        if(parent[node]==node){
-            return node;
-        }
+    int findUP(int node) {
+        if (parent[node] == node) return node;
         return parent[node] = findUP(parent[node]);
     }
 
-    void unionBySize(int u,int v){
+    void unionBySize(int u, int v) {
         int up = findUP(u), vp = findUP(v);
-        if(up == vp)return;
-        if(size[up]>size[vp]){
+        if (up == vp) return;
+        if (size[up] > size[vp]) {
             parent[vp] = up;
             size[up] += size[vp];
-        }else{
+        } else {
             parent[up] = vp;
             size[vp] += size[up];
         }
-        return;
     }
 };
 class Solution {
