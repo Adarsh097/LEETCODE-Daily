@@ -1,10 +1,12 @@
 class Solution {
 public:
     int minOperations(string s) {
-        int ans = 0;
-        for(auto &ch : s){
-            ans = max(ans,(26 - (int(ch)-int('a')))%26);
+       sort(s.begin(),s.end());
+       for(auto &ch : s){
+        if(ch!='a'){
+            return 26 - (int(ch) - int('a'));
         }
-        return ans;
+       }
+       return 0;
     }
 };
