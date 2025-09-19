@@ -1,7 +1,7 @@
 class Spreadsheet {
 public:
     vector<vector<int>> arr;
-    Spreadsheet(int rows) { arr.resize(rows+1, vector<int>(27, 0)); }
+    Spreadsheet(int rows) { arr.resize(rows+1, vector<int>(26, 0)); }
 
     void setCell(string cell, int value) {
         int col = cell[0] - 'A';
