@@ -23,7 +23,11 @@ public:
         Node* newNode = new Node(url);
         Node* toDel = temp->next;
         temp->next = NULL;
-        if(toDel)delete(toDel);
+        while(toDel){
+            Node* forwardNode = toDel->next;
+            delete(toDel);
+            toDel = forwardNode;
+        }
         temp->next = newNode;
         newNode->prev = temp;
         temp = newNode;
