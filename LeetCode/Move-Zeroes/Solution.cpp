@@ -5,11 +5,10 @@ public:
         while(j<nums.size()){
             if(nums[j]!=0){
                 swap(nums[i],nums[j]);
-                i++;j++;
-            }else{
-                j++;
+                i++;
             }
-
+            j++;
         }
+        return;
     }
 };
