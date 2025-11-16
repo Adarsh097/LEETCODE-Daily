@@ -1,0 +1,17 @@
+class Solution {
+public:
+    int minLengthAfterRemovals(string s) {
+        stack<char>st;
+        for(auto &ch : s){
+            if(st.empty()){
+                st.push(ch);
+            }else{
+                if((ch=='a' && st.top()=='b')||(ch=='b' && st.top()=='a'))st.pop();
+                else{
+                    st.push(ch);
+                }
+            }
+        }
+        return st.size();
+    }
+};
