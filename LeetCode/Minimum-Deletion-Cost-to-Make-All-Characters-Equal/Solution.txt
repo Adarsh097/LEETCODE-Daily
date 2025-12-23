@@ -1,0 +1,18 @@
+1class Solution {
+2public:
+3    unordered_map<char,long long>m;
+4    long long minCost(string s, vector<int>& cost) {
+5        int n = s.size();
+6        long long totalCost = 0;
+7        for(int i=0;i<n;i++){
+8            char ch = s[i];
+9            m[ch] += cost[i];
+10            totalCost += cost[i];
+11        }
+12        long long maxi = 0;
+13        for(auto &it : m){
+14            maxi = max(maxi,it.second);
+15        }
+16        return totalCost - maxi;
+17    }
+18};
