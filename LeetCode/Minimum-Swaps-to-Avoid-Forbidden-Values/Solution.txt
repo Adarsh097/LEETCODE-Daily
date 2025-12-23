@@ -1,0 +1,21 @@
+1class Solution {
+2public:
+3    int minSwaps(vector<int>& a, vector<int>& f) {
+4         int n = a.size();
+5        unordered_map<int, int> m1, m2, mb;
+6        for (int x : a) m1[x]++;
+7        for (int x : f) m2[x]++;
+8        for (auto& [k, v] : m1) {
+9            if (v + m2[k] > n) return -1;
+10        }
+11        int b = 0, mx = 0;
+12        for (int i = 0; i < n; ++i) {
+13            if (a[i] == f[i]) {
+14                b++;
+15                mb[a[i]]++;
+16                mx = max(mx, mb[a[i]]);
+17            }
+18        }
+19        return max(mx, (b + 1) / 2);
+20    }
+21    };
