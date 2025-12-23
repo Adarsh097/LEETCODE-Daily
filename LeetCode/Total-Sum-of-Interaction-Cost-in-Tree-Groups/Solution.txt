@@ -1,0 +1,38 @@
+1class Solution {
+2
+3    long long r;
+4    int t[21];
+5    vector<vector<int>> a;
+6    vector<int> g;
+7
+8    array<int, 21> f(int u, int p) {
+9        array<int, 21> c;
+10        c.fill(0);
+11        c[g[u]]++;
+12        for (int v : a[u]) {
+13            if (v != p) {
+14                array<int, 21> s = f(v, u);
+15                for (int i = 1; i <= 20; ++i) {
+16                    r += (long long)s[i] * (t[i] - s[i]);
+17                    c[i] += s[i];
+18                }
+19            }
+20        }
+21        return c;
+22    }
+23
+24public:
+25    long long interactionCosts(int n, vector<vector<int>>& edges, vector<int>& group) {
+26        r = 0;
+27        fill(begin(t), end(t), 0);
+28        a.assign(n, vector<int>());
+29        g = group;
+30        for (auto& x : edges) {
+31            a[x[0]].push_back(x[1]);
+32            a[x[1]].push_back(x[0]);
+33        }
+34        for (int x : group) t[x]++;
+35        f(0, -1);
+36        return r;
+37    }
+38};
