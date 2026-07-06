@@ -78,6 +78,7 @@ A collection of LeetCode Daily Questions.
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0907-koko-eating-bananas) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0941-valid-mountain-array](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0941-valid-mountain-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/0966-binary-subarrays-with-sum) |
 | [1028-interval-list-intersections](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1028-interval-list-intersections) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/1034-subarrays-with-k-different-integers) |
