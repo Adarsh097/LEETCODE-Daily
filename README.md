@@ -363,6 +363,7 @@ A collection of LeetCode Daily Questions.
 | [2649-count-total-number-of-colored-cells](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/3227-find-missing-and-repeated-values) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Adarsh097/LEETCODE-Daily/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
 |  |
 | ------- |
